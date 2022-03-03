@@ -1,0 +1,20 @@
+body {
+  background: url(https://courses.ics.hawaii.edu/ics314s22/morea/ui-frameworks/wod-stewbum-background-image.jpg) no-repeat center center fixed!important;
+  background-size: cover!important;
+}
+
+.ui.borderless.topMenu.menu {
+  box-shadow: none;
+  border: none;
+  background: none;
+}
+
+.ui.menu .item {
+  color: white;
+}
+
+.ui.header {
+  color: white;
+  font-weight: 700!important;
+  font-size: 80px!important;
+}
